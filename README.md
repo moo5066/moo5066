@@ -1,5 +1,4 @@
-# 💫 About Me:
-## 💫 About Me :<br><br>🎯 **I’m currently working on:**  <br>Building front-end projects using **HTML**, **CSS**, **JavaScript**, and **React.js**.<br><br>🤝 **I’m looking to collaborate on:**  <br>Exciting web development projects and working with **other developers**.<br><br>🧠 **I’m looking for help with:**  <br>Finding a **team** to build creative and challenging projects together.<br><br>🌱 **I’m currently learning:**  <br>**React.js** and **Next.js** to improve my front-end and full-stack development skills.<br><br>💬 **Ask me about:**  <br>**Welcome!** and **Where are you from?**<br><br>⚡ **Fun fact:**  <br>I love taking on **challenges** and **building real-world projects** to learn faster.<br>
+I am Front-End devloper
 
 
 ## 🌐 Socials:
