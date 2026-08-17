@@ -1,4 +1,4 @@
-I am Front-End devloper
+Fullstack web devlopment
 
 
 ## 🌐 Socials:
