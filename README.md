@@ -1,10 +1,8 @@
-## GitHub Profile
+# Full-Stack Developer | Building Toward Software Engineering
 
-# Full-Stack Developer | Self-Taught Software Engineer
+I’m a **self-taught Full-Stack Developer** focused on building modern, reliable, and maintainable web applications.
 
-I’m a **self-taught Software Engineer and Full-Stack Developer** focused on building modern, scalable, and maintainable web applications.
-
-My journey started with frontend development and gradually expanded into backend engineering, databases, APIs, authentication, and application architecture. I enjoy understanding how systems work from the user interface all the way to the server and database.
+My journey started with frontend development and expanded into backend development, databases, RESTful APIs, authentication, and deployment. I enjoy understanding how different parts of an application work together, from the user interface to the backend services and database.
 
 ### 🛠️ What I Work With
 
@@ -28,33 +26,50 @@ My journey started with frontend development and gradually expanded into backend
 * Mongoose
 * Database design and data modeling
 
-**Tools & Engineering**
+**Tools**
 
 * Git & GitHub
 * API development and testing
 * Debugging and problem solving
-* Clean code and reusable architecture
 * Deployment and production workflows
 
 ### 🚀 What I’m Building
 
-I’m focused on building **real-world full-stack applications** that help me strengthen my understanding of software engineering—not just learning technologies individually, but learning how they work together as complete systems.
+I’m building **real-world full-stack applications** to strengthen my development skills and gain practical experience working with complete software systems.
 
-I’m particularly interested in:
+My focus is not only on learning individual technologies, but on understanding how frontend, backend, databases, APIs, authentication, testing, and deployment work together.
 
-* Building scalable web applications
-* Designing reliable backend systems
-* Creating clean and maintainable APIs
-* Connecting frontend applications with backend services
-* Improving software architecture and problem-solving skills
-* Exploring AI and AI-powered products
+### 🎯 My Next Step: Software Engineering
 
-### 🎯 My Engineering Journey
+I’m currently developing beyond Full-Stack Development and working toward becoming a **Software Engineer**.
 
-I’m continuously developing from a **Full-Stack Developer into a stronger Software Engineer**, with a long-term goal of becoming an **AI Product Engineer**.
+My next focus areas are:
 
-I believe the best way to learn software engineering is to **build, break, debug, understand, and rebuild**.
+* Problem solving
+* Software architecture
+* System design
+* SDLC
+* Testing and quality
+* Security
+* Scalability and performance
+* CI/CD and deployment
+* Clean and maintainable code
+* Professional software development practices
 
-> **Learn deeply. Build consistently. Solve problems. Engineer better. 🚀**
+My goal is to become an engineer who can **understand a problem, design a solution, build it, test it, deploy it, and continuously improve it**.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I also use AI as a development assistant for learning, implementation, debugging, testing, research, and code review while making sure I understand the engineering decisions behind the software I build.
+
+### 🧠 How I Learn
+
+I believe the best way to improve is through practical work:
+
+**Understand → Plan → Design → Build → Test → Debug → Review → Improve**
+
+I’m continuously building, breaking, debugging, and rebuilding to develop stronger problem-solving and engineering skills.
+
+### 🌱 Long-Term Goal
+
+My long-term goal is to become a strong **Software Engineer** and eventually specialize in building **AI-powered products**.
+
+> **Build consistently. Solve problems. Learn deeply. Engineer better. 🚀**
