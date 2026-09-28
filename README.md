@@ -1,5 +1,7 @@
 # Full-Stack Developer | Building Toward Software Engineering
 
+**🌐 Live Portfolio:** [Mohamed Abdulkadir Portfolio](https://id-web-dzgp.vercel.app/)
+
 I’m a **self-taught Full-Stack Developer** focused on building modern, reliable, and maintainable web applications.
 
 My journey started with frontend development and expanded into backend development, databases, RESTful APIs, authentication, and deployment. I enjoy understanding how different parts of an application work together, from the user interface to the backend services and database.
@@ -55,7 +57,7 @@ My next focus areas are:
 * CI/CD and deployment
 * Clean and maintainable code
 * Professional software development practices
-*mohamed-abdulk-git-2e06fa-mohamed-abdulkadir-abdulahis-projects.vercel.app
+
 My goal is to become an engineer who can **understand a problem, design a solution, build it, test it, deploy it, and continuously improve it**.
 
 I also use AI as a development assistant for learning, implementation, debugging, testing, research, and code review while making sure I understand the engineering decisions behind the software I build.
