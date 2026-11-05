@@ -1,6 +1,6 @@
 # Full-Stack Developer | Building Toward Software Engineering
 
-🌐 **Live Portfolio:** [Mohamed Abdulkadir Portfolio](https://your-actual-website-url.com)
+🌐 **Live Portfolio:** [Mohamed Abdulkadir Portfolio](https://moo5066.github.io/)
 
 I’m a **self-taught Full-Stack Developer** focused on building modern, reliable, and maintainable web applications.
 
