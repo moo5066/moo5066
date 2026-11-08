@@ -1,6 +1,5 @@
 # Full-Stack Developer | Building Toward Software Engineering
 
-🌐 **Live Portfolio:** [Mohamed Abdulkadir Portfolio](https://your-actual-website-url.com)
 
 I’m a **self-taught Full-Stack Developer** focused on building modern, reliable, and maintainable web applications.
 
