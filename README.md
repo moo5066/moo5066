@@ -1,76 +1,111 @@
-# Full-Stack Developer | Building Toward Software Engineering
+# Software Engineer | Full-Stack Development
 
+I'm a **Software Engineer** focused on designing, building, and maintaining reliable, scalable, and maintainable software systems.
 
-I’m a **self-taught Full-Stack Developer** focused on building modern, reliable, and maintainable web applications.
+My journey started with frontend development and expanded into backend engineering, database management, API development, authentication, and deployment. I focus on understanding how complete software systems work, from user interfaces and backend services to databases and infrastructure.
 
-My journey started with frontend development and expanded into backend development, databases, RESTful APIs, authentication, and deployment. I enjoy understanding how different parts of an application work together, from the user interface to the backend services and database.
+I believe software engineering is more than writing code. It's about understanding problems, analyzing requirements, designing solutions, making sound technical decisions, and delivering software that creates real value.
 
-### 🛠️ What I Work With
+### 🛠️ Technical Skills
 
-**Frontend**
+**Frontend Engineering**
+- HTML5, CSS3, JavaScript, TypeScript
+- React.js, Next.js
+- Tailwind CSS
+- Responsive Design
+- Component-Based Architecture
 
-* HTML, CSS, JavaScript, TypeScript
-* React, Next.js
-* Tailwind CSS
-* Responsive and component-based UI development
+**Backend Engineering**
+- JavaScript, TypeScript, Python
+- Node.js, Express.js, FastAPI
+- RESTful API Design and Development
+- Authentication and Authorization
+- Server-Side Application Development
+- API Integration
 
-**Backend**
+**Database Engineering**
+- MongoDB, Mongoose
+- PostgreSQL, SQL
+- Relational Database Design
+- Data Modeling
+- Database Relationships and Query Optimization
 
-* Node.js, Express.js
-* RESTful APIs
-* Authentication & Authorization
-* Server-side application development
+**Software Engineering**
+- Object-Oriented Programming (OOP)
+- Data Structures and Algorithms
+- Problem Solving
+- Software Architecture and Design
+- System Design
+- Software Development Life Cycle (SDLC)
+- Clean Code and Design Principles
+- Testing and Debugging
+- Security and Performance
+- Scalability and Maintainability
 
-**Database**
+**DevOps & Development Tools**
+- Git and GitHub
+- Linux Fundamentals
+- Docker
+- CI/CD Pipelines
+- GitHub Actions
+- Postman
+- Vercel and Application Deployment
 
-* MongoDB
-* Mongoose
-* Database design and data modeling
+### 🚀 What I'm Building
 
-**Tools**
+I focus on developing real-world software applications that solve practical problems.
 
-* Git & GitHub
-* API development and testing
-* Debugging and problem solving
-* Deployment and production workflows
+My projects involve complete software development workflows:
 
-### 🚀 What I’m Building
+- Requirements gathering and analysis.
+- System architecture and database design.
+- Frontend and backend development.
+- API design and integration.
+- Authentication and authorization.
+- Business logic and data management.
+- Testing, debugging, and code reviews.
+- Deployment and application maintenance.
 
-I’m building **real-world full-stack applications** to strengthen my development skills and gain practical experience working with complete software systems.
+### 🧠 My Software Engineering Approach
 
-My focus is not only on learning individual technologies, but on understanding how frontend, backend, databases, APIs, authentication, testing, and deployment work together.
+I follow a structured software development process:
 
-### 🎯 My Next Step: Software Engineering
+**Understand → Analyze → Plan → Design → Architect → Implement → Test → Review → Deploy → Maintain**
 
-I’m currently developing beyond Full-Stack Development and working toward becoming a **Software Engineer**.
+I aim to develop software that is:
 
-My next focus areas are:
+- **Reliable:** Works correctly and handles unexpected situations.
+- **Maintainable:** Easy to understand, modify, and extend.
+- **Scalable:** Designed to support future growth.
+- **Secure:** Protects application data and user information.
+- **Efficient:** Uses resources and processes effectively.
 
-* Problem solving
-* Software architecture
-* System design
-* SDLC
-* Testing and quality
-* Security
-* Scalability and performance
-* CI/CD and deployment
-* Clean and maintainable code
-* Professional software development practices
+### 🎯 Current Learning Focus
 
-My goal is to become an engineer who can **understand a problem, design a solution, build it, test it, deploy it, and continuously improve it**.
+- Advanced JavaScript and TypeScript
+- Python Programming and Backend Development
+- FastAPI and REST API Development
+- PostgreSQL and Database Engineering
+- Data Structures and Algorithms
+- Object-Oriented Programming and Design Patterns
+- Software Architecture and System Design
+- Automated Testing and Quality Assurance
+- Application Security
+- Docker, CI/CD, and Cloud Fundamentals
+- Professional Software Development Practices
 
-I also use AI as a development assistant for learning, implementation, debugging, testing, research, and code review while making sure I understand the engineering decisions behind the software I build.
+### 🏗️ Engineering Philosophy
 
-### 🧠 How I Learn
+I believe strong software engineering requires more than learning programming languages and frameworks.
 
-I believe the best way to improve is through practical work:
+It requires critical thinking, problem-solving, technical discipline, practical experience, and the ability to design solutions to unfamiliar problems.
 
-**Understand → Plan → Design → Build → Test → Debug → Review → Improve**
+I learn through building, testing, debugging, reviewing, and continuously improving my work.
 
-I’m continuously building, breaking, debugging, and rebuilding to develop stronger problem-solving and engineering skills.
+My focus is on taking problems from initial requirements to complete, tested, deployed, and maintainable software solutions.
 
 ### 🌱 Long-Term Goal
 
-My long-term goal is to become a strong **Software Engineer** and eventually specialize in building **AI-powered products**.
+My goal is to build impactful software systems, solve complex technical problems, and continuously grow as a Software Engineer.
 
-> **Build consistently. Solve problems. Learn deeply. Engineer better. 🚀**
+> **Understand the problem. Engineer the solution. Build with purpose. Improve continuously. 🚀**
